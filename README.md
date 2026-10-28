@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anna-hita/anna-hita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌙 Hi, I'm Anna! ✨
 
-Here are some ideas to get you started:
+### 💻 Computer Engineering Student | Python Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*☁️ Learning, creating, and growing one line of code at a time.*
+
+🌙 ⋆｡°✩ 💙 ✩°｡⋆ 🌿
+
+</div>
+
+---
+
+## ✧ About Me
+
+- 🎓 Computer Engineering student
+- 💻 Currently learning Python
+- 🌱 Exploring the world of programming
+- ✨ Always curious, always learning
+
+## ☁️ What I'm Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+<div align="center">
+
+### 🌌 Little by little, the stars begin to align.
+
+💙 Thank you for visiting my little corner of GitHub! 🌙
+
+</div>
